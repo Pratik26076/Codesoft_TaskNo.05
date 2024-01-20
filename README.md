@@ -39,3 +39,8 @@ class then register the number of subjects in that class and can mark the attend
 </ul>
 &nbsp;
 <h3>Installation :</h3>
+<ul>
+ 	<li>FIrst You need to download zip file from github</li>
+ 	<li>Then Extract this zip file where you want</li>
+ 	<li>After that open this project in Android Studio And wait until all file downloaded</li?
+</ul>
